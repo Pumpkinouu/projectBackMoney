@@ -1,0 +1,23 @@
+D:\319-ConceptionApplication\Code VS\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\bin\Debug\backmoney_DaniloZivanovic.exe.config
+D:\319-ConceptionApplication\Code VS\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\bin\Debug\backmoney_DaniloZivanovic.exe
+D:\319-ConceptionApplication\Code VS\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\bin\Debug\backmoney_DaniloZivanovic.pdb
+D:\319-ConceptionApplication\Code VS\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\obj\Debug\backmoney_DaniloZivanovic.csproj.AssemblyReference.cache
+D:\319-ConceptionApplication\Code VS\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\obj\Debug\backmoney_DaniloZivanovic.csproj.SuggestedBindingRedirects.cache
+D:\319-ConceptionApplication\Code VS\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\obj\Debug\backmoney_DaniloZivanovic.csproj.CoreCompileInputs.cache
+D:\319-ConceptionApplication\Code VS\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\obj\Debug\backmoney_DaniloZivanovic.exe
+D:\319-ConceptionApplication\Code VS\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\obj\Debug\backmoney_DaniloZivanovic.pdb
+E:\319-ConceptionApplication\Code VS\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\bin\Debug\backmoney_DaniloZivanovic.exe.config
+E:\319-ConceptionApplication\Code VS\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\bin\Debug\backmoney_DaniloZivanovic.exe
+E:\319-ConceptionApplication\Code VS\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\bin\Debug\backmoney_DaniloZivanovic.pdb
+E:\319-ConceptionApplication\Code VS\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\obj\Debug\backmoney_DaniloZivanovic.csproj.AssemblyReference.cache
+E:\319-ConceptionApplication\Code VS\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\obj\Debug\backmoney_DaniloZivanovic.csproj.CoreCompileInputs.cache
+E:\319-ConceptionApplication\Code VS\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\obj\Debug\backmoney_DaniloZivanovic.exe
+E:\319-ConceptionApplication\Code VS\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\obj\Debug\backmoney_DaniloZivanovic.pdb
+D:\PROJETS\P_PROG\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\bin\Debug\backmoney_DaniloZivanovic.exe.config
+D:\PROJETS\P_PROG\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\bin\Debug\backmoney_DaniloZivanovic.exe
+D:\PROJETS\P_PROG\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\bin\Debug\backmoney_DaniloZivanovic.pdb
+D:\PROJETS\P_PROG\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\obj\Debug\backmoney_DaniloZivanovic.csproj.AssemblyReference.cache
+D:\PROJETS\P_PROG\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\obj\Debug\backmoney_DaniloZivanovic.csproj.SuggestedBindingRedirects.cache
+D:\PROJETS\P_PROG\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\obj\Debug\backmoney_DaniloZivanovic.csproj.CoreCompileInputs.cache
+D:\PROJETS\P_PROG\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\obj\Debug\backmoney_DaniloZivanovic.exe
+D:\PROJETS\P_PROG\backmoney_DaniloZivanovic\backmoney_DaniloZivanovic\obj\Debug\backmoney_DaniloZivanovic.pdb
