@@ -4,7 +4,7 @@ Ce programme consiste à demander de rentrer une valeur en uint avec des contrai
 
 ## Programme
 
-Comment ouvrrir le programme
+Comment voir le programme
 
 ```bash
   backmoney_DaniloZivanovic\Program.cs
